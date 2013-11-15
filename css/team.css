@@ -1,0 +1,27 @@
+body {
+	background-repeat:no-repeat;
+	background-image:url("../images/teambg.jpg");
+	font-family: "Helvetica Neue",Helvetica,"Microsoft Yahei",Arial,sans-serif;
+	color:#fff;
+}
+.container {
+	margin: 0 auto;
+	width: 80%;
+	padding: 40px;
+	background:rgba(0,0,0,.8);
+	margin-top: 70px;
+}
+
+h1 {
+	font-size: 55px;
+}
+p {
+	color:rgba(255,255,255,.6)
+}
+li {
+	color:rgba(255,255,255,.6)
+}
+
+#main-nav{
+	font-size: 50px;
+}
