@@ -152,6 +152,11 @@ h2 {
 	.member {
 		width: 100%;
 	}
+	.proj {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 40px;
+	}
 
 }
 @media screen and  (max-width: 840px)
